@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
+=======
+# alpha-blog
+>>>>>>> 119a6fb19f5a91609767008efa274efa8bbe2810
